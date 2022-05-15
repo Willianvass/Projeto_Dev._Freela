@@ -1,6 +1,6 @@
 # Projeto_Dev._Freela
 
-PROJETO – DEVFREELA
+PROJETO – DEVFREELA - .NET 5
 - Plataforma para cadastro e contratação de serviços de Freelancer 
 
 FUNCIONALIDADES IMPLEMENTADAS:
