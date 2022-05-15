@@ -34,3 +34,6 @@ AÇÕES EXTRAIDAS
 - Definir, Iniciar, Terminar o projeto; CRUD do projeto
 - Cliente e Freelancer se comunicarem;
 - Definição das habilidades de um freelancer;
+
+![image](https://user-images.githubusercontent.com/94553130/168493123-d39039c4-3904-4daf-b5b5-dbb692c3e4cc.png)
+
